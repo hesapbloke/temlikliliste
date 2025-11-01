@@ -60,7 +60,7 @@ thead th {
     border: #111827 0.4vh solid;
   padding: 10px 12px;
   text-align: left;
-  font-size: 13px;
+  font-size: 3vh;
   white-space: nowrap;
 }
 
@@ -76,7 +76,7 @@ td {
 }
 
 /* Mobil uyumlu görünüm */
-@media (max-width: 640px) {
+@media (max-width: 50px) {
   table {
     min-width: 100%;
     border: 0;
